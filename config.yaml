@@ -1,5 +1,5 @@
 title: 'Yevgen Atlanov'
-baseUrl: 'atlanovyevgen.me'
+baseUrl: 'http://atlanovyevgen.me'
 permalinks:
   blog: /:slug
 pygmentsUseClasses: false

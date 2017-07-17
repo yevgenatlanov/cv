@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>atlanovyevgen.me/categories/</loc>
+    <loc>http://atlanovyevgen.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>atlanovyevgen.me/contact/contact/</loc>
+    <loc>http://atlanovyevgen.me/contact/contact/</loc>
   </url>
   
   <url>
-    <loc>atlanovyevgen.me/contact/</loc>
+    <loc>http://atlanovyevgen.me/contact/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>atlanovyevgen.me/tags/</loc>
+    <loc>http://atlanovyevgen.me/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>atlanovyevgen.me/</loc>
+    <loc>http://atlanovyevgen.me/</loc>
     <priority>0</priority>
   </url>
   
