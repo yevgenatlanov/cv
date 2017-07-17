@@ -1,0 +1,15 @@
+title: 'Yevgen Atlanov'
+baseUrl: 'atlanovyevgen.me'
+permalinks:
+  blog: /:slug
+pygmentsUseClasses: false
+pygmentsCodeFences: true
+PygmentsStyle: 'friendly'
+metaDataFormat: 'yaml'
+paginate: 16
+menu:
+  main:
+    - Name: "Contact"
+      Identifier: "contact"
+      URL: "/contact/"
+      weight: 2

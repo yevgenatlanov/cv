@@ -1,0 +1,21 @@
+/** @define Contact */
+
+.Contact-img {
+  width: 300px;
+  height: 100%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+  @media(--sm-viewport) {
+    margin-bottom: 0;
+  }
+}
+
+.Contact-list {
+  margin: 0;
+}
+
+.Contact-item {
+  margin-left: 0;
+  margin-bottom: 5px;
+}
